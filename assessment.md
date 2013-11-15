@@ -37,7 +37,7 @@ Adapted from http://www.johnbiggs.com.au/solo_taxonomy.html.
 
 There are several parts to this assessment item. These should be completed in your project groups. Note that the Group Project will have a peer evaluation process, completed in Wk12 tutorials.
 
-## ROUNDTABLE 1 + PCD
+## Roundtable 1 + PCD
 Your project team is asked to present a short scoping document for your design problem. These ideas will form the base for your project throughout the semester. Note that you are not bound to these ideas, and it is expected that they will evolve over the semester.
 
 ### Task Requirements
