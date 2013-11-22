@@ -20,8 +20,26 @@ This course focusses on developing a critical approach to problem solving using 
 | Meet with Chris | (Compulsory) | During Wk 5, sign up on WATTLE |
 | [Submission + Defence](#portfolio) | 30% | Portfolio due Friday Wk 12 on WATTLE (20%)<br />Defence and feedback with Chris during Wk 13 (10%) |
 
-
 Please note that your individual Due Dates will be available in WATTLE after the Week 2 tutorial.
+
+
+## Feedback
+
+Feedback is the most important part of developing your work. Feedback can be formal -  with your teaching staff - but can also come in all sorts of places - attending the labs, your group work, your peers, former students, your family, etc. You should seek and engage feedback before due dates to **feed-in** to your assessed work. 
+
+As feedback once you've handed your work in doesn't necessarily help your mark, written feedback will generally be minimal and will be provided to justify a mark. We encourage you to talk to your tutor before submitting work so that you can get feedback ahead of submission.
+
+## Extensions and Disputes
+Please familiarise yourself with the extensions policy of the Research School of Engineering (see the [Course Policies section on the front page](http://eng.anu.edu.au/courses/ENGN2225/#course_rules_and_policies) or go to the Undergraduate Portal in WATTLE)
+
+If you receive a mark or comments that you're not happy with, we encourage you to:
+
+1. talk to the marker (your tutor or Chris) and ask for more detailed feedback
+1. if you are not satisfied with the further feedback, talk to the convener and ask for it to be re-marked *(Chris will re-mark any work without looking at the feedback provided by the original marker*
+1. if you're still unhappy with the mark, you can dispute the mark according to the School policy. 
+
+
+
 
 ## Generalised Criteria <a id="Generalised_Criteria"></a>
 
