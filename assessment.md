@@ -14,7 +14,7 @@ This course focusses on developing a critical approach to problem solving using 
 | [Presentation + FPR](#project-report) | 15% | Presentation & Final Project Report: Wk 11 Tutorials |
 | **JIGSAW TASKS (45%)** | | ***Chosen in Week 2 tutorial.*** *[Using this form](data/notes/GroupContract.pdf)* |
 | [Tutorial Facilitation](#tutorial-facilitation-guide) | 15% | Topic workshop 'ticket' and attendance (required, no mark)<br />Secret Plan: as a group (5%)<br />Tutorial Facilitation: as a group at start of facilitation (10%) |
-| [Individual Research Paper or Poster](#research-paper-guide) | 25% | Structured Abstract: Due Mon in week before topic (5%)<br />Draft Paper due Mon in week of topic (required, no marks)<br />Topic workshop: Thu week before topic (first hour only, strongly recommended)<br />Paper or Poster (and Peer Review Critique): due Fri after topic wk (20%) |
+| [Individual Research Paper or Poster](#research-paper-guide) | 25% | Structured Abstract: Due Mon in week before topic (5%)<br />Draft Paper + TurnItIn report due Mon in week of topic (required, no marks)<br />Topic workshop: Thu week before topic (first hour only, strongly recommended)<br />Paper or Poster (and Peer Review Critique): due Fri after topic wk (20%) |
 | [Peer Review](#peer-review) x 2 | 5% total | Receive paper: Tuesday of topic week<br />Submit review: Friday of topic week |
 | **DESIGN PORTFOLIO (30%)** |||
 | Scoping document | (Req.) | Hardcopy signed by Chris, Wks 5-7 Labs |
@@ -215,7 +215,7 @@ You must give a hard copy of your Secret Plan to your tutor at the beginning of 
 
 ## Research Paper Guide
 
-<img src="http://eng.anu.edu.au/courses/ENGN2225/current/data/images/engn-research.png" title="Research Paper Flow" class="right">
+Investigate your content topic in relation to your group project topic. <img src="http://eng.anu.edu.au/courses/ENGN2225/current/data/images/engn-research.png" title="Research Paper Flow" class="right">
 
 The research paper is submitted over a number of weeks to get to a well-developed final paper.
 
@@ -296,9 +296,7 @@ You will be awarded a mark for each of the two peer reviews you complete. You wi
 Submission will be available on WATTLE - please complete the activity there. (Should take less than 30 minutes if you're across the content.)
 
 # System Design Portfolio
-Take a system or design, and improve it using systems engineering techiniques.
-
-<img src="http://eng.anu.edu.au/courses/ENGN2225/current/data/images/engn-portfolio.png" title="Portfolio Flow" class="right">
+Take a system or design, and improve it using systems engineering techniques.<img src="http://eng.anu.edu.au/courses/ENGN2225/current/data/images/engn-portfolio.png" title="Portfolio Flow" class="right">
 
 The System Design Portfolio is an opportunity for individuals to showcase their understanding and extension of themes and concepts in the course.
 
@@ -328,7 +326,6 @@ Both assessment items will be marked using the following criteria:
 *  Use of a systems approach improve design outcomes or operational performance for the real-world problem
 *  Concise communication and documentation, in particular the generation of clear engineering specification documents
 *  Quality and relevance of the bibliography
-
 
 ### Submission
 You need to have your Portfolio Plan signed off by Chris in the weeks 5-7 labs.

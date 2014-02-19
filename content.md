@@ -28,8 +28,8 @@ You interact with systems every day. You might *logon* to the 'system' to find o
 
 #### Core resources
 
-*  [Meadows, D.H., 2008, 'Thinking in Systems - A Primer', Chelsea Green, Vermont. *Introduction Section*](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk01-Meadows_ThinkingInSystems.pdf) [PDF, 8 pages]  
-*  [Hitchens, D.K., 2007, 'Systems Engineering - A 21st Century Systems Methodology', John Wiley & Sons, New Jersey.](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk01-Hitchens_Definitions.pdf) [PDF, 6 pages]
+*  [Meadows, D.H., 2008, 'Thinking in Systems - A Primer', Chelsea Green, Vermont. *Introduction Section*](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk01-Meadows_ThinkingInSystems.pdf) [PDF, 8 pages]  
+*  [Hitchens, D.K., 2007, 'Systems Engineering - A 21st Century Systems Methodology', John Wiley & Sons, New Jersey.](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk01-Hitchens_Definitions.pdf) [PDF, 6 pages]
 
 ** Further Resources **
 
@@ -44,7 +44,7 @@ Complex problems are more than a modern catchphrase. Complex problems can't be r
 
 #### Core resources
 
-*  Hitchens, D.K., 2007, 'Systems Engineering - A 21st Century Systems Methodology', John Wiley & Sons, New Jersey.  [Addressing Complex Issues and Problems pp185-189](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk01-Hitchens_AddressingComplexProblems.pdf) [PDF, 5 pages]
+*  Hitchens, D.K., 2007, 'Systems Engineering - A 21st Century Systems Methodology', John Wiley & Sons, New Jersey.  [Addressing Complex Issues and Problems pp185-189](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk01-Hitchens_AddressingComplexProblems.pdf) [PDF, 5 pages]
 
 ** Further Resources **
 
@@ -77,13 +77,13 @@ Let's use an analogy from Richardson's further reading below. Technology has ena
 What do the two approaches show us?
 
 #### Core resources
-*  Richardson, G.P., 1991, 'Feedback Thought in Social Science and Systems Theory', University of Pennsylvania Press, Philadelphia. [Chapter 2.1 Engineering Servomechanisms and Control Theory](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk02-Richardson_FeedbackThought.pdf) [PDF, 8 pages]
+*  Richardson, G.P., 1991, 'Feedback Thought in Social Science and Systems Theory', University of Pennsylvania Press, Philadelphia. [Chapter 2.1 Engineering Servomechanisms and Control Theory](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk02-Richardson_FeedbackThought.pdf) [PDF, 8 pages]
 *  
 
 
 ** Further Resources **
 
-*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [Event-orientated v. Feedback-orientated processes](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk02-Sterman_Feedback.pdf) [PDF, 10 pages]
+*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [Event-orientated v. Feedback-orientated processes](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk02-Sterman_Feedback.pdf) [PDF, 10 pages]
 
 
 ### Building a shared understanding
@@ -105,7 +105,7 @@ You will probably have different S.M.A.R.T+ goals between the members of your gr
 
 #### Core resources
 
-*  Doran, G. T., 1981. There's a SMART way to write management's goals and objectives. Management Review, 70(11), 35-36  [Read the SMART Goals article at the end of the PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk02-Doran_SMART.pdf) [PDF, ~1.5 pages]
+*  Doran, G. T., 1981. There's a SMART way to write management's goals and objectives. Management Review, 70(11), 35-36  [Read the SMART Goals article at the end of the PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk02-Doran_SMART.pdf) [PDF, ~1.5 pages]
 
 ** Further Resources **
 
@@ -148,7 +148,7 @@ There are countless 'solutions' out there - you need to find one that's right fo
 > **Online Classroom**
 >
 > * Customer Requirements 
->   * ([Video, 4m45s](http://www.youtube.com/watch?v=jZQ4Nsn61sA&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&index=2)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc_requirements.pdf))
+>   * ([Video, 4m45s](http://www.youtube.com/watch?v=jZQ4Nsn61sA&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&index=2)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc_requirements.pdf))
 
 
 The systems engineering approach brings the voice of the customer into an engineering process. This can sometimes make the topic of systems engineering vague and difficult, but are also crucial in bringing together the various specialities within the engineering discipline.
@@ -163,9 +163,9 @@ The product life-cycle is a model for tracking a product through different stage
 
 #### Core resources
 
-*  Stasinopoulos, P., Smith, M., Hargroves, K. and Desha, C., 2008. Whole System Design - An Integrated Approach to Sustainable Engineering, The Natural Edge Project, Earthscan, London. [Pages 19-22](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk03-Stasinopoulos_WholeSystemDesign.pdf) [PDF, 4 pages]
-*  Heizer, J.H. and B. Render, 2000. Operations Management, Ninth ed, Prentice Hall.  [Pages 159-162](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk03-Heizer_Life-Cycle.pdf) [PDF, 4 pages]
-*  McDonough, W., and M. Braungart, 2010. Cradle to Cradle - Remaking the Way We Make Things. Farrar, Straus and Giroux. [Pages 157-165](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk03_McDonough-CradleToCradle.pdf) [PDF, 8 pages]
+*  Stasinopoulos, P., Smith, M., Hargroves, K. and Desha, C., 2008. Whole System Design - An Integrated Approach to Sustainable Engineering, The Natural Edge Project, Earthscan, London. [Pages 19-22](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk03-Stasinopoulos_WholeSystemDesign.pdf) [PDF, 4 pages]
+*  Heizer, J.H. and B. Render, 2000. Operations Management, Ninth ed, Prentice Hall.  [Pages 159-162](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk03-Heizer_Life-Cycle.pdf) [PDF, 4 pages]
+*  McDonough, W., and M. Braungart, 2010. Cradle to Cradle - Remaking the Way We Make Things. Farrar, Straus and Giroux. [Pages 157-165](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk03_McDonough-CradleToCradle.pdf) [PDF, 8 pages]
 
 ** Further Resources **
 
@@ -182,7 +182,7 @@ Finding out what your customer wants is a great first step into the design proce
 
 #### Core resources
 
-*  Dym, C.L., P. Little, E.J. Orwin and R.E. Spjut, Engineering Design - A Project-Based Introduction, Third ed., John Wiley & Sons, 2009. [Chapter 2.1 and 3.1](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk03-Dym_Requirements) [PDF, 13 pages]
+*  Dym, C.L., P. Little, E.J. Orwin and R.E. Spjut, Engineering Design - A Project-Based Introduction, Third ed., John Wiley & Sons, 2009. [Chapter 2.1 and 3.1](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk03-Dym_Requirements) [PDF, 13 pages]
 
 ** Further Resources **
 
@@ -201,7 +201,7 @@ Finding out what your customer wants is a great first step into the design proce
 > **Online Classroom**
 >
 > *  System Boundaries 
->   * ([video, 4min](http://www.youtube.com/watch?v=8wYqqjX1zaI&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&index=10) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc_sbc.pdf))
+>   * ([video, 4min](http://www.youtube.com/watch?v=8wYqqjX1zaI&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&index=10) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc_sbc.pdf))
 
 
 ### The Whats and the Hows
@@ -215,7 +215,7 @@ You will need to translate your customer requirements into design requirements, 
 #### Core resources
 
 *  Systems Engineering Fundamentals, Department of Defence  
-[Supplement 4-A - A Procedure for Requirements Analysis](http://eng.anu.edu.au/courses/ENGN2225/course-files/sefguidech4a.pdf)
+[Supplement 4-A - A Procedure for Requirements Analysis](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/sefguidech4a.pdf)
 *  *Note that you can download the whole guide here: [SEF Guide](http://www.dau.mil/pubscats/PubsCats/SEFGuide%2001-01.pdf), but Supplement 4-A is the core reading for this chapter.*
 
 **Further Resources**
@@ -235,7 +235,7 @@ Now that you've had a look at the how your system relates to the customer requir
 
 #### Core resources
 
-*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [The model boundary chart](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk07-Sterman_Boundary.pdf) (p97-98) [PDF, 6 pages]
+*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [The model boundary chart](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk07-Sterman_Boundary.pdf) (p97-98) [PDF, 6 pages]
 *  note that in this example, it is looking at 'models'. Interchange this with both your requirements and design.
 *  Glossary - *endogenous = internal to the system*; *exogenous = external to the system*
 *  Define the System Boundaries [A Practical Guide to Security Engineering and Information Assurance](https://www.cccure.org/amazon/secengineering.pdf) **note** read especially p67-72.
@@ -252,11 +252,11 @@ Now that you've had a look at the how your system relates to the customer requir
 >
 > **Online Classroom**
 >
-> *  [Pairwise Analysis](http://www.youtube.com/watch?v=dhv6o9ubHC0&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc-wk04_pairwise.pdf)) 
+> *  [Pairwise Analysis](http://www.youtube.com/watch?v=dhv6o9ubHC0&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk04_pairwise.pdf)) 
 > * [Online Classroom Series](http://www.youtube.com/watch?v=svy2ZLiXCLg&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 6m17s]
-> *  [Online Classroom - Wk04 TPMs](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc-wk04_tpms.pdf) [slides as a PDF]* 
+> *  [Online Classroom - Wk04 TPMs](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk04_tpms.pdf) [slides as a PDF]* 
 > *  [Online Classroom Series](http://www.youtube.com/watch?v=nME24qo5kPY&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 5m18s]
-> *  [Online Classroom - Wk05 House of Quality](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc-wk05_hoq.pdf) [slides as a PDF]
+> *  [Online Classroom - Wk05 House of Quality](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk05_hoq.pdf) [slides as a PDF]
 
 
 The requirements engineering topic builds upon the basic understanding of requirements engineering that you should have covered in [ENGN1211 Discovering Engineering.](http://studyat.anu.edu.au/courses/ENGN1211;details.html) Requirements engineering is an important concept, as if a system is built to the customer requirement it's likely to be more useful to the customer(!)  
@@ -271,12 +271,12 @@ The pair-wise analysis is a simple tool to rank competing design requirements. E
 
 #### Core resources
 
-*  Dym, C.L., P. Little, E.J. Orwin and R.E. Spjut, 2009. Engineering Design - A Project-Based Introduction, Third ed., John Wiley & Sons. [pages 60-62 provide an example of a pairwise using a ladder as an example](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk04-Dym_Pairwise.pdf) [PDF, 3 pages]
+*  Dym, C.L., P. Little, E.J. Orwin and R.E. Spjut, 2009. Engineering Design - A Project-Based Introduction, Third ed., John Wiley & Sons. [pages 60-62 provide an example of a pairwise using a ladder as an example](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk04-Dym_Pairwise.pdf) [PDF, 3 pages]
 
 
 ** Further Resources **
 
-*  [Dym, C.L., et al. Rank ordering engineering designs: pairwise comparison charts and Borda counts in Research in Engineering Design November 2002, Volume 13, Issue 4, pp 236-242](http://link.springer.com.virtual.anu.edu.au/article/10.1007/s00163-002-0019-8#) ([Download PDF, 7 pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk04-Dym_RankOrdering.pdf) *Note that this also introduces a more complicated idea of group aggregation of separate rankings*
+*  [Dym, C.L., et al. Rank ordering engineering designs: pairwise comparison charts and Borda counts in Research in Engineering Design November 2002, Volume 13, Issue 4, pp 236-242](http://link.springer.com.virtual.anu.edu.au/article/10.1007/s00163-002-0019-8#) ([Download PDF, 7 pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk04-Dym_RankOrdering.pdf) *Note that this also introduces a more complicated idea of group aggregation of separate rankings*
 
 ### Technical Performance Measures
 
@@ -288,7 +288,7 @@ A technical performance measure becomes the key to understanding whether or not 
 
 #### Core resources
 
-*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Chapter 3.6, pp96-100](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk04-Blanchard_TPM.pdf) [PDF, 5 pages]
+*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Chapter 3.6, pp96-100](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk04-Blanchard_TPM.pdf) [PDF, 5 pages]
 
 *Glossary for that reading.. MTBF is Mean Time Before Failure, MTBM is Mean Time Before Maintenance, LCC is Life-Cycle Cost.*
 
@@ -330,7 +330,7 @@ There are many, many different ways that people use the HoQ, including symbols a
 > **Online Classroom**
 >
 > *  [Online Classroom Series](http://www.youtube.com/watch?v=Ii1MI68MKDs&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 5m18s]
-*  [Online Classroom - Wk06 FFBDs](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc-wk06_ffbds.pdf) [slides as a PDF]
+*  [Online Classroom - Wk06 FFBDs](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk06_ffbds.pdf) [slides as a PDF]
 
 
 ### Concept Generation
@@ -338,11 +338,11 @@ There are many, many different ways that people use the HoQ, including symbols a
 *A systematic process for generating ideas.*
 
 *  [Online Classroom Series](http://www.youtube.com/watch?v=Xnet58-119Q&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 4m45s]
-*  [Online Classroom - Wk03 Concept Generation](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc-wk03_conceptgeneration.pdf) [slides as a PDF, 0.4MB]
+*  [Online Classroom - Wk03 Concept Generation](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk03_conceptgeneration.pdf) [slides as a PDF, 0.4MB]
 
 #### Core resources
 
-*  Ulrich, K.T., and S.D. Eppinger, 1995. Product Design and Development. McGraw-Hill. [Chapter 5 - Concept Generation](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk03-Ulrich_ConceptGeneration.pdf) [PDF, 25 pages]
+*  Ulrich, K.T., and S.D. Eppinger, 1995. Product Design and Development. McGraw-Hill. [Chapter 5 - Concept Generation](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk03-Ulrich_ConceptGeneration.pdf) [PDF, 25 pages]
 
 *  This is the *ultimate* guide to coming up with product design ideas. Refer to this for your Three Ideas presentation.
 
@@ -369,11 +369,11 @@ There are also many ways to represent Functional Flow Block Diagrams (FFBDs). Pl
 
 #### Core resources
 
-*  Systems Engineering Fundamentals, Department of Defense [Chapter 5 and Supplement 5A](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk05-SEF_FFBD.pdf) [PDF, 7 pages]
+*  Systems Engineering Fundamentals, Department of Defense [Chapter 5 and Supplement 5A](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk05-SEF_FFBD.pdf) [PDF, 7 pages]
 
 ** Further Resources **
 
-*  [Examples of FFBDs](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk05-Blanchard_FFBDs.pdf) from Blanchard, B.S. and W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011.
+*  [Examples of FFBDs](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk05-Blanchard_FFBDs.pdf) from Blanchard, B.S. and W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011.
 
 
 ### Use Cases 2
@@ -390,7 +390,7 @@ The Use Cases topic is here again to remind groups to revisit your Use Case, as 
 >
 > **Online Classroom**
 >
-> *  [Online Classroom - Wk07 Functional Block Diagram](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc-wk07_fbd.pdf) [slides as a PDF, 0.8MB]
+> *  [Online Classroom - Wk07 Functional Block Diagram](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk07_fbd.pdf) [slides as a PDF, 0.8MB]
 
 
 
@@ -419,7 +419,7 @@ These are largely examples. Use the guide above to create your system interface 
 
 ** Further Resources **
 
-*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [The subsystem diagram - application to a semiconductor firm](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk07-Sterman_Boundary.pdf) (p99-102 - especially Fig. 3-8) [PDF, 6 pages]
+*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [The subsystem diagram - application to a semiconductor firm](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk07-Sterman_Boundary.pdf) (p99-102 - especially Fig. 3-8) [PDF, 6 pages]
 
 <div class="page-break"></div>
 
@@ -432,7 +432,7 @@ These are largely examples. Use the guide above to create your system interface 
 >
 > **Online Classroom**
 >
-> *  [Online Classroom - Wk08 Attributes Cascade](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc-wk08_ac.pdf) [slides as a PDF]
+> *  [Online Classroom - Wk08 Attributes Cascade](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk08_ac.pdf) [slides as a PDF]
 
 
 ### System attributes
@@ -487,12 +487,12 @@ This allows you to understand how these attributes map to the system's function.
 
 #### Core resources
 
-*  Fourth-year project example of an Attributes Cascade [Attributes Cascade](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk08-ANUPDS_AttributesCascade.pdf) from an Instrumented Whitewater Slalom Gate System.
+*  Fourth-year project example of an Attributes Cascade [Attributes Cascade](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk08-ANUPDS_AttributesCascade.pdf) from an Instrumented Whitewater Slalom Gate System.
 *  *Note that this is a really detailed example. It might be worthwhile considering only key attributes. Verification table unnecessary*.
 
 ** Further Resources **
 
-*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Functional packaging into operational functions (pp122)](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk08-Blanchard_FunctionalPackaging.pdf) [PDF, 1 page]
+*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Functional packaging into operational functions (pp122)](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk08-Blanchard_FunctionalPackaging.pdf) [PDF, 1 page]
 
 <div class="page-break"></div>
 
@@ -505,10 +505,10 @@ This allows you to understand how these attributes map to the system's function.
 >
 > **Online Classroom**
 >
-> *  [Online Classroom - Wk09 Validation](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc-wk09_validation.pdf) [slides as a PDF]
+> *  [Online Classroom - Wk09 Validation](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk09_validation.pdf) [slides as a PDF]
 > *  [Online Classroom Series](http://www.youtube.com/watch?v=yruHXbsZRzk&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 8m56s]
 #### Online Classroom
-> *  [Online Classroom - Wk10 Evaluation](http://eng.anu.edu.au/courses/ENGN2225/course-files/oc-wk10_evaluation.pdf) [slides as a PDF]
+> *  [Online Classroom - Wk10 Evaluation](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk10_evaluation.pdf) [slides as a PDF]
 > *  [Online Classroom Series](http://www.youtube.com/watch?v=4CglMoAfhSI&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 7m32s]
 > **Classroom Resources**
 >
@@ -526,7 +526,7 @@ There are a number of different methods that involve testing, you should be able
 
 #### Core resources
 
-*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Testing types (pp166-171)](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk09-Blanchard_TestingTypes.pdf)
+*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Testing types (pp166-171)](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk09-Blanchard_TestingTypes.pdf)
 
 Note that the Blanchard & Fabrycky terms can get a little confusing. A better description of the testing types is:
 
@@ -552,7 +552,7 @@ Note that the Blanchard & Fabrycky terms can get a little confusing. A better de
 
 ** Further Resources **
 
-*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Figure 7.4 is a good way to visualise the alternatives (p202)](http://eng.anu.edu.au/courses/ENGN2225/course-files/wk10-Blanchard_DecisionEvaluation.pdf)
+*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Figure 7.4 is a good way to visualise the alternatives (p202)](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk10-Blanchard_DecisionEvaluation.pdf)
 
 ### Design selection
 
