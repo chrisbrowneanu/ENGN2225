@@ -8,17 +8,17 @@ This course focusses on developing a critical approach to problem solving using 
 | Component | Marks | Notes |
 |:----:|:-----------|:------------|
 | **GROUP PROJECT (25%)** |||
-| [Roundtable + PCD](#project-concept-document) | (Feedback) | PCD: Due Wk 4 Tutorials |
+| [Roundtable + PCD](#task-1-roundtable-1-pcd) | (Feedback) | PCD: Due Wk 4 Tutorials |
 | Client Meetings | (Voluntary) | Fridays Wks 4 or 5 (TBA) |
-| [Weekly Progress Reports](#progress-report) | 10% | Weekly Homework Due: Wks 5-10 in tutorials |
-| [Presentation + FPR](#project-report) | 15% | Presentation & Final Project Report: Wk 11 Tutorials |
-| **JIGSAW TASKS (45%)** | | ***Chosen in Week 2 tutorial.*** *[Using this form](data/notes/GroupContract.pdf)* |
+| [Weekly Progress Reports](#task-2-weekly-progress-report) | 10% | Weekly Homework Due: Wks 5-10 in tutorials |
+| [Presentation + FPR](#task-3-presentation-fpr) | 15% | Presentation & Final Project Report: Wk 11 Tutorials |
+| **JIGSAW TASKS (45%)** | | ***Chosen in Week 2 tutorial.*** *[Using this form](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/GroupContract.pdf)* |
 | [Tutorial Facilitation](#tutorial-facilitation-guide) | 15% | Topic workshop 'ticket' and attendance (required, no mark)<br />Secret Plan: as a group (5%)<br />Tutorial Facilitation: as a group at start of facilitation (10%) |
 | [Individual Research Paper or Poster](#research-paper-guide) | 25% | Structured Abstract: Due Mon in week before topic (5%)<br />Draft Paper + TurnItIn report due Mon in week of topic (required, no marks)<br />Topic workshop: Thu week before topic (first hour only, strongly recommended)<br />Paper or Poster (and Peer Review Critique): due Fri after topic wk (20%) |
 | [Peer Review](#peer-review) x 2 | 5% total | Receive paper: Tuesday of topic week<br />Submit review: Friday of topic week |
 | **DESIGN PORTFOLIO (30%)** |||
 | Scoping document | (Req.) | Hardcopy signed by Chris, Wks 5-7 Labs |
-| [Submission + Defence](#portfolio) | 30% | Portfolio due Friday Wk 12 on WATTLE (20%)<br />Defence and feedback with Chris during Wk 13 (10%) |
+| [Submission + Defence](#system-design-portfolio) | 30% | Portfolio due Friday Wk 12 on WATTLE (20%)<br />Defence and feedback with Chris during Wk 13 (10%) |
 
 Note that Tutorial and Lab attendance carry no weight, but are offered as valuable opportunities to improve your understanding of topics.
 
@@ -60,7 +60,7 @@ Present a written 2-page Project Concept Document (PCD), and lead a 10-minute di
 
 The template can be modified as necessary. Use it as a guide.
 
-*  Download the PCD template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/project_concept_document.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/project_concept_document.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/project_concept_document.odt))
+*  Download the PCD template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_concept_document.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_concept_document.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_concept_document.odt))
 
 ### Feedback
 No marks are allocated to this assessment piece, but you will receive feedback from the group and your tutor guide the start of your project.
@@ -87,7 +87,7 @@ There are two parts to the weekly submissions at your tutorial:
 
 The weekly progress document is a 'control' document that demonstrates your group's progress, and highlights any issues that your group might be having. Please bring a copy each week, and bring previous weeks' reports too. Develop this in consultation with your tutor.
 
-*  Download the Weekly Progress template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/project_weekly_progress.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/project_weekly_progress.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/project_weekly_progress.odt)) 
+*  Download the Weekly Progress template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_weekly_progress.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_weekly_progress.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_weekly_progress.odt)) 
 
 ### Group Homework
 
@@ -100,7 +100,7 @@ Each week, apply a relevant technique to the topic in relation to your group pro
 
 You could use the following template, or evolve your own. Homework should be of a high standard:
 
-*  Download the Weekly Homework template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/project_homework.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/project_homework.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/project_homework.odt))
+*  Download the Weekly Homework template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_homework.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_homework.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_homework.odt))
 
 ### Marking Criteria
 
@@ -238,7 +238,7 @@ Submission must be by PDF, and the outline must not exceed two A4 pages. If you 
 
 Please use the Structured Abstract template. You may alter and adjust if necessary.
 
-*  Download the Structured Abstract template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/structured_abstract.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/structured_abstract.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/structured_abstract.odt)) ([LateX](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/structured_abstract.zip))
+*  Download the Structured Abstract template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.odt)) ([LateX](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.zip))
 
 #### Marking Criteria
 All criteria have equal weight.
@@ -273,7 +273,7 @@ Submission must be by PDF. The research paper content should not exceed 1,500 wo
 
 Please use the Individual Research Paper template. You may alter and adjust if necessary.
 
-*  Download the Research Paper template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/individual_research_paper.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/individual_research_paper.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/individual_research_paper.odt)) ([LateX](http://eng.anu.edu.au/courses/ENGN2225/current/data/templates/individual_research_paper.zip))
+*  Download the Research Paper template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.odt)) ([LateX](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.zip))
 
 #### Submission
 **Draft: ** submission on WATTLE by 10am Monday, the week of the topic. This is to allow time for the Peer Reviewers to provide comments by Friday of the topic week. A Turnitin report should be submitted with the Draft to help the reviewers confirm that your content is original.
@@ -302,6 +302,11 @@ The System Design Portfolio is an opportunity for individuals to showcase their 
 
 **As much as possible, you should look for a technology theme that you can get hands-on with. Think of using the 'Think, Plan, Do, Invent' loops to demonstrate your learning (teardowns, builds, repairs, reflections encouraged!)**
 
+### Portfolio Scoping Plan
+A hardcopy needs to be signed-off by Chris in the weeks 5-7 Labs.
+
+*  Download the Porfolio Scoping template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/portfolio_plan.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/portfolio_plan.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/portfolio_plan.odt))
+
 ### Task Requirements
 
 There is no clear format for this assessment piece. Creativity and insights based on applications are encouraged. You should use the weekly group homework as a starting point, but you're not restricted to a report. Talk to Chris to discuss and navigate your approach to this assessment piece if you are unsure.
@@ -312,7 +317,7 @@ The Portfolio should:
 *  contain insightful analysis that demonstrates your understanding of the course content<br />*You should present a document that demonstrates the holistic systems engineering process for your technology.*
 *  be a professional representation (if you're writing a report, it should be of **12-15 pages** excluding the bibliography, developed over the semester). However, if you would like to present your portfolio in an alternative format, please raise this with Chris in the Labs before Week 7.
 
-**Please use this Portfolio checklist (TBA) to make sure you're on the right track with your portfolio.**
+**You should include theory from weeks 5-10 in your porfolio to demonstrate a complete understanding of the course content.** However, if there's a topic that doesn't fit, you should explain why or talk to Chris to find an extension topic.
 
 ### Marking Criteria
 This is a significant part of the course mark. To benefit different learning styles and differentiate understanding of course concepts, there are three aspects to this submission:
@@ -328,6 +333,6 @@ Both assessment items will be marked using the following criteria:
 *  Quality and relevance of the bibliography
 
 ### Submission
-You need to have your Portfolio Plan signed off by Chris in the weeks 5-7 labs.
+You need to have your Portfolio Scoping Plan signed off by Chris in the weeks 5-7 labs.
 
 Please submit a PDF of your Portfolio on WATTLE, and sign up for a Week 13 discussion spot on WATTLE from Week 10.
