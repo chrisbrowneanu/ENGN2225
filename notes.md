@@ -1,4 +1,4 @@
-# Course Notes
+# Slides & Handouts
 
 These are slides and worksheets from the labs, workshops, lectures and course in general.
 
@@ -6,12 +6,16 @@ These are slides and worksheets from the labs, workshops, lectures and course in
 
 ## Lecture Notes
 
+*[Browse the lecture slides and handouts in the Resources Directory](http://eng.anu.edu.au/courses/ENGN2225/course-files)*
+
 *  [Lecture 1 slides - 17 Feb, Course Introduction](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture01.pdf)
 *  [Lecture 2 slides - 20 Feb, Assessment](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture02.pdf)
+*  [Lecture 3 slides - 24 Feb, Feedback Systems](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture03.pdf)
 
 ## Tutorial Notes
 
 *  [Group Contract](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/GroupContract.pdf) (for selecting jigsaw tasks within your group project by Week 3)
+*  [Group Project List - DRAFT](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/ProjectListDraft.pdf)
 
 ## Online Classroom
 
