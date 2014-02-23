@@ -1,8 +1,32 @@
 # Course Content
 
+## Course Brick
+
+This page is the easiest way to access material, but you might like to print this document as a reference as it contains all the relevant source readings and resources you need for this course.
+
+How to build your own DIY brick:
+
+1. Go to print this page and save as a PDF (note, depending on your system, hyperlinks may not work..)
+1. Go to the [course resources page](http://eng.anu.edu.au/courses/ENGN2225/course-files/) (uni ID required) and download:
+  1. the all core resources zip in the core_resources folder
+  1. the all further resources zip in the further_resources folder
+  1. the all online classroom zip in the online_classroom folder
+1. repeat for any other pages or folders you might want to add to your brick
+
+There is no textbook for this course. However, if you would like a textbook, these are a good place to start (some available for download).
+
+*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011.
+*  Hitchens, D.K., 2007, 'Systems Engineering - A 21st Century Systems Methodology', John Wiley & Sons, New Jersey.
+*  [Stasinopoulos, P., Smith, M., Hargroves, K. and Desha, C., 2008. Whole System Design - An Integrated Approach to Sustainable Engineering, The Natural Edge Project, Earthscan, London.](http://www.naturaledgeproject.net/whole_system_design.aspx)
+*  [Systems Engineering Fundamentals, Department of Defence](http://eng.anu.edu.au/courses/ENGN2225/course-files/textbooks/SystemsEngineeringFundamentals)
+*  [The International Council on Systems Engineering Handbook](http://www.incose.org/ProductsPubs/products/sehandbook.aspx) or [here](http://eng.anu.edu.au/courses/ENGN2225/course-files/textbooks/SystemsEngineeringFundamentals)
+*  [MIT's Opencourseware subject on systems engineering](http://ocw.mit.edu/courses/engineering-systems-division/esd-33-systems-engineering-summer-2010/) **note - this has a 'readings' list that could you find resources on your research paper**
+
+<div class="page-break"></div>
+
 ## Wk 1: Introduction 
 
-> ![Systems Engineering](http://eng.anu.edu.au/courses/ENGN2225/current/data/images/wk01.jpg)
+> ![Systems Engineering](http://eng.anu.edu.au/courses/ENGN2225/current/data/icons/wk01.jpg)
 > **This week...**
 >
 > *  Course introduction
@@ -11,8 +35,8 @@
 >
 > **Online Classroom**
 >
-> *  Introduction ([video, 2min](https://www.youtube.com/watch?v=n0Yf8CR8lmI&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA)) ([PDF]())
-
+> *  OC Introduction 
+>  *  ([video, 2min](https://www.youtube.com/watch?v=n0Yf8CR8lmI&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk01_Introduction.pdf))
 
 ### Course introduction and assessment
 
@@ -28,10 +52,10 @@ You interact with systems every day. You might *logon* to the 'system' to find o
 
 #### Core resources
 
-*  [Meadows, D.H., 2008, 'Thinking in Systems - A Primer', Chelsea Green, Vermont. *Introduction Section*](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk01-Meadows_ThinkingInSystems.pdf) [PDF, 8 pages]  
-*  [Hitchens, D.K., 2007, 'Systems Engineering - A 21st Century Systems Methodology', John Wiley & Sons, New Jersey.](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk01-Hitchens_Definitions.pdf) [PDF, 6 pages]
+*  [Meadows, D.H., 2008, 'Thinking in Systems - A Primer', Chelsea Green, Vermont. *Introduction Section*](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk01-Meadows_ThinkingInSystems.pdf) [PDF, 8 pages]  
+*  [Hitchens, D.K., 2007, 'Systems Engineering - A 21st Century Systems Methodology', John Wiley & Sons, New Jersey.](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk01-Hitchens_Definitions.pdf) [PDF, 6 pages]
 
-** Further Resources **
+#### Further resources
 
 *  [Great Southern Land](https://www.youtube.com/watch?v=KKV8ovw3QN0) - *an excerpt from a 'systems' view of Australia (YouTube video, ~8 minutes)*
 *  [INCOSE, the International Council on Systems Engineering](http://www.incose.org/practice/whatissystemseng.aspx) website - *What is Systems Engineering?*
@@ -44,9 +68,9 @@ Complex problems are more than a modern catchphrase. Complex problems can't be r
 
 #### Core resources
 
-*  Hitchens, D.K., 2007, 'Systems Engineering - A 21st Century Systems Methodology', John Wiley & Sons, New Jersey.  [Addressing Complex Issues and Problems pp185-189](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk01-Hitchens_AddressingComplexProblems.pdf) [PDF, 5 pages]
+*  Hitchens, D.K., 2007, 'Systems Engineering - A 21st Century Systems Methodology', John Wiley & Sons, New Jersey.  [Addressing Complex Issues and Problems pp185-189](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk01-Hitchens_AddressingComplexProblems.pdf) [PDF, 5 pages]
 
-** Further Resources **
+#### Further resources
 
 *  [MIT's Open Courseware on Engineering the Apollo project](http://ocw.mit.edu/courses/science-technology-and-society/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/lecture-notes/)
 
@@ -54,7 +78,8 @@ Complex problems are more than a modern catchphrase. Complex problems can't be r
 
 ## Wk 2: Thinking as a Sys. Engineer
 
-> **In this topic...**
+> ![Thinking in Systems](http://eng.anu.edu.au/courses/ENGN2225/current/data/icons/wk02.png)
+> **Topics this week...**
 >
 > *  Feedback in systems
 > *  Building shared understanding
@@ -77,13 +102,12 @@ Let's use an analogy from Richardson's further reading below. Technology has ena
 What do the two approaches show us?
 
 #### Core resources
-*  Richardson, G.P., 1991, 'Feedback Thought in Social Science and Systems Theory', University of Pennsylvania Press, Philadelphia. [Chapter 2.1 Engineering Servomechanisms and Control Theory](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk02-Richardson_FeedbackThought.pdf) [PDF, 8 pages]
-*  
+*  Richardson, G.P., 1991, 'Feedback Thought in Social Science and Systems Theory', University of Pennsylvania Press, Philadelphia. [Chapter 2.1 Engineering Servomechanisms and Control Theory](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk02-Richardson_FeedbackThought.pdf) [PDF, 8 pages]
 
 
-** Further Resources **
+#### Further resources
 
-*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [Event-orientated v. Feedback-orientated processes](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk02-Sterman_Feedback.pdf) [PDF, 10 pages]
+*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [Event-orientated v. Feedback-orientated processes](http://eng.anu.edu.au/courses/ENGN2225/course-files/further_resources/wk02-Sterman_Feedback.pdf) [PDF, 10 pages]
 
 
 ### Building a shared understanding
@@ -105,9 +129,9 @@ You will probably have different S.M.A.R.T+ goals between the members of your gr
 
 #### Core resources
 
-*  Doran, G. T., 1981. There's a SMART way to write management's goals and objectives. Management Review, 70(11), 35-36  [Read the SMART Goals article at the end of the PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk02-Doran_SMART.pdf) [PDF, ~1.5 pages]
+*  Doran, G. T., 1981. There's a SMART way to write management's goals and objectives. Management Review, 70(11), 35-36  [Read the SMART Goals article at the end of the PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk02-Doran_SMART.pdf) [PDF, ~1.5 pages]
 
-** Further Resources **
+#### Further resources
 
 *  [Lost in Translation](https://www.youtube.com/watch?v=FiQnH450hPM) - this is an extract from the Bill Murray film 'Lost in Translation' that demonstrates how **not** to get a shared understanding of the goals! How could they improve their shared understanding? [video, 3m27s]
 *  [Small Giants](https://www.youtube.com/watch?v=eQ0c66ZSLEU) - companies that choose to be *great* instead of *large*. Check this out as an example of a brewing business with really clear goals. [video, 5m41s]
@@ -133,23 +157,21 @@ There are countless 'solutions' out there - you need to find one that's right fo
   * [Google Drive](http://drive.google.com) - can help share documents and collaborate in real-time
   * [Prezi](http://prezi.com) - is a collaborative slide presenter, some say are useful for meetings
 *  Advanced tools, and probably overkill  
-  * [Dokuwiki](https://www.dokuwiki.org/dokuwiki) has minimal requirements, but you need someone with webskills to set up
+  * [Dokuwiki](https://www.dokuwiki.org/dokuwiki) has minimal requirements, but you need someone with web skills to set up
   * [Github](https://github.com/) is a collaborative 'software' development environment, but can be used for team documentation. This course documentation has been developed using a [Github project](http://github.com/chrisbrowneanu/ENGN2225).
 
 <div class="page-break"></div>
 
 ## Wk 3: SysEng Life-Cycle
 
-> **In this topic...**
+> ![V-model of engineering](http://eng.anu.edu.au/courses/ENGN2225/current/data/icons/wk03.png)
+> **Topics this week...**
 >
 > *  Life-cycle phases
+>   * *No OC. [See wk03 lecture](resources)*
 > *  Customer Requirements
+>   * OC: ([Video, 4m45s](http://www.youtube.com/watch?v=jZQ4Nsn61sA&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&index=2)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk03_Requirements.pdf))
 >
-> **Online Classroom**
->
-> * Customer Requirements 
->   * ([Video, 4m45s](http://www.youtube.com/watch?v=jZQ4Nsn61sA&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&index=2)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc_requirements.pdf))
-
 
 The systems engineering approach brings the voice of the customer into an engineering process. This can sometimes make the topic of systems engineering vague and difficult, but are also crucial in bringing together the various specialities within the engineering discipline.
 
@@ -163,11 +185,11 @@ The product life-cycle is a model for tracking a product through different stage
 
 #### Core resources
 
-*  Stasinopoulos, P., Smith, M., Hargroves, K. and Desha, C., 2008. Whole System Design - An Integrated Approach to Sustainable Engineering, The Natural Edge Project, Earthscan, London. [Pages 19-22](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk03-Stasinopoulos_WholeSystemDesign.pdf) [PDF, 4 pages]
-*  Heizer, J.H. and B. Render, 2000. Operations Management, Ninth ed, Prentice Hall.  [Pages 159-162](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk03-Heizer_Life-Cycle.pdf) [PDF, 4 pages]
-*  McDonough, W., and M. Braungart, 2010. Cradle to Cradle - Remaking the Way We Make Things. Farrar, Straus and Giroux. [Pages 157-165](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk03_McDonough-CradleToCradle.pdf) [PDF, 8 pages]
+*  Stasinopoulos, P., Smith, M., Hargroves, K. and Desha, C., 2008. Whole System Design - An Integrated Approach to Sustainable Engineering, The Natural Edge Project, Earthscan, London. [Pages 19-22](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk03-Stasinopoulos_WholeSystemDesign.pdf) [PDF, 4 pages]
+*  Heizer, J.H. and B. Render, 2000. Operations Management, Ninth ed, Prentice Hall.  [Pages 159-162](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk03-Heizer_Life-Cycle.pdf) [PDF, 4 pages]
+*  McDonough, W., and M. Braungart, 2010. Cradle to Cradle - Remaking the Way We Make Things. Farrar, Straus and Giroux. [Pages 157-165](http://eng.anu.edu.au/courses/ENGN2225/course-files/further_resources/wk03_McDonough-CradleToCradle.pdf) [PDF, 8 pages]
 
-** Further Resources **
+#### Further resources
 
 *  [V Process Model of Engineering](http://en.wikipedia.org/wiki/V-Model) - this is often used to show the life-cycle phases
 *  [The Story of Stuff](http://www.storyofstuff.org/movies-all/story-of-stuff/) by Annie Leonard attempts to explain the consumption side-effects of the product life-cycle [video, 21m]
@@ -182,9 +204,9 @@ Finding out what your customer wants is a great first step into the design proce
 
 #### Core resources
 
-*  Dym, C.L., P. Little, E.J. Orwin and R.E. Spjut, Engineering Design - A Project-Based Introduction, Third ed., John Wiley & Sons, 2009. [Chapter 2.1 and 3.1](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk03-Dym_Requirements) [PDF, 13 pages]
+*  Dym, C.L., P. Little, E.J. Orwin and R.E. Spjut, Engineering Design - A Project-Based Introduction, Third ed., John Wiley & Sons, 2009. [Chapter 2.1 and 3.1](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk03-Dym_Requirements) [PDF, 13 pages]
 
-** Further Resources **
+#### Further resources
 
 *  [12 Lessons Steve Jobs Taught Guy Kawasaki](https://www.youtube.com/watch?v=DR_wX0EwOMM). Regardless of whether your an Apple lover or hater, Steve Jobs changed the world we live in by anticipating what customers want. Guy Kawasaki - an Apple Fellow - gives a talk about what he learnt from Steve Jobs.
 
@@ -192,21 +214,17 @@ Finding out what your customer wants is a great first step into the design proce
 
 ## Wk 4: System Scoping
 
-> **In this topic...**
+> ![System Scoping](http://eng.anu.edu.au/courses/ENGN2225/current/data/icons/wk04.png)
+> **Topics this week...**
 >
 > *  The Whats and the Hows
-> *  Use cases
 > *  System boundaries
+>   * OC: ([video, 4min](http://www.youtube.com/watch?v=8wYqqjX1zaI&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&index=10)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk04_SBC.pdf))
+> *  Use cases
+>   * *No OC on this topic*
 >
-> **Online Classroom**
->
-> *  System Boundaries 
->   * ([video, 4min](http://www.youtube.com/watch?v=8wYqqjX1zaI&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&index=10) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc_sbc.pdf))
-
 
 ### The Whats and the Hows
-
-#### Overview
 
 Translating the customer expectations into design requirements is a difficult process. Customers will often tell you *how* they want something (eg. "Can I get the icon in cornflower-blue") not what they *want* (eg. "I want the icon in a pleasing, yet plain colour").
 
@@ -215,49 +233,48 @@ You will need to translate your customer requirements into design requirements, 
 #### Core resources
 
 *  Systems Engineering Fundamentals, Department of Defence  
-[Supplement 4-A - A Procedure for Requirements Analysis](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/sefguidech4a.pdf)
-*  *Note that you can download the whole guide here: [SEF Guide](http://www.dau.mil/pubscats/PubsCats/SEFGuide%2001-01.pdf), but Supplement 4-A is the core reading for this chapter.*
+[Supplement 4-A - A Procedure for Requirements Analysis](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk04-SEF_ch4a.pdf)
+*  *Note that you can download the whole guide here: [SEF Guide](http://eng.anu.edu.au/courses/ENGN2225/course-files/textbooks/SystemsEngineeringFundamentals), but Supplement 4-A is the core reading for this chapter.*
 
-**Further Resources**
+#### Further resources
 
 *  [Westfall, L., The Whats, Why, Who, When and How.](http://www.westfallteam.com/Papers/The_Why_What_Who_When_and_How_Of_Software_Requirements.pdf) A guide to eliciting requirements for software development.
-
-### Use Cases
-
-**TODO**
-
 
 ### System boundaries
 
 *Where does your system (and subsystems) stop? Defining the boundaries will stop scope creep.*
 
-Now that you've had a look at the how your system relates to the customer requirements, and how it will likely operate (FFBDs), it's time to double-check that addressing the right problem. Constructing a system boundary chart is the first step in defining what's in and out of your system.
+Now that you've had a look at the how your system relates to the customer requirements, and how it will likely operate (functional flow), it's time to double-check that addressing the right problem. Constructing a system boundary chart is the first step in defining what's in and out of your system.
 
 #### Core resources
 
-*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [The model boundary chart](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk07-Sterman_Boundary.pdf) (p97-98) [PDF, 6 pages]
-*  note that in this example, it is looking at 'models'. Interchange this with both your requirements and design.
-*  Glossary - *endogenous = internal to the system*; *exogenous = external to the system*
+*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [The model boundary chart](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk04-Sterman_Boundary.pdf) (p97-98) [PDF, 6 pages]  
+note that in this example, it is looking at 'models'. Interchange this with both your requirements and design.  
+Glossary - *endogenous = internal to the system*; *exogenous = external to the system*
 *  Define the System Boundaries [A Practical Guide to Security Engineering and Information Assurance](https://www.cccure.org/amazon/secengineering.pdf) **note** read especially p67-72.
+
+### Use Cases
+
+Use cases begin to form an idea about how the system is intended to be used successfully. These can often be how the customer describes how they would like their system to work. This is a textual representation that can form contractual understanding throughout a project, so it's important to work with the client to get this right at the beginning. When you meet your client, it could be worth drawing a use case diagram.
+
+#### Core resources
+
+*  Cockburn, A., 'Writing Effective Use Cases', Addison Wesley [Introduction to Use Cases](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk04-Cockburn_Use_Cases.pdf) (Chapter 1)
 
 <div class="page-break"></div>
 
 ## Wk 5: Requirements Engineering
 
-> **In this topic...**
+> ![Requirements Engineering](http://eng.anu.edu.au/courses/ENGN2225/current/data/icons/wk05.png)
+> **Topics this week...**
 >
 > *  Pairwise analysis
+>   *  *OC:* ([video, 5m18s](http://www.youtube.com/watch?v=dhv6o9ubHC0&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk05_PairWise.pdf)) 
 > *  Technical Performance Measures
+>   * *OC:* ([video, 6m17s](http://www.youtube.com/watch?v=svy2ZLiXCLg&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk05_TPMs.pdf))
 > *  The House of Quality
+>   * *OC:* ([video, 5m18s](http://www.youtube.com/watch?v=nME24qo5kPY&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk05_HoQ.pdf))
 >
-> **Online Classroom**
->
-> *  [Pairwise Analysis](http://www.youtube.com/watch?v=dhv6o9ubHC0&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk04_pairwise.pdf)) 
-> * [Online Classroom Series](http://www.youtube.com/watch?v=svy2ZLiXCLg&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 6m17s]
-> *  [Online Classroom - Wk04 TPMs](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk04_tpms.pdf) [slides as a PDF]* 
-> *  [Online Classroom Series](http://www.youtube.com/watch?v=nME24qo5kPY&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 5m18s]
-> *  [Online Classroom - Wk05 House of Quality](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk05_hoq.pdf) [slides as a PDF]
-
 
 The requirements engineering topic builds upon the basic understanding of requirements engineering that you should have covered in [ENGN1211 Discovering Engineering.](http://studyat.anu.edu.au/courses/ENGN1211;details.html) Requirements engineering is an important concept, as if a system is built to the customer requirement it's likely to be more useful to the customer(!)  
 
@@ -265,34 +282,30 @@ The requirements engineering topic builds upon the basic understanding of requir
 
 *A tool for establishing design priorities.*
 
-#### Overview
-
 The pair-wise analysis is a simple tool to rank competing design requirements. Each requirement is tabulated for importance using a binary comparison. This will help your understanding of which requirements are more important than others.
+
+***Note - we will cover the Pairwise analysis a little in week 4. Facilitators should concentrate on the other two topics, as this is assumed knowledge***
 
 #### Core resources
 
-*  Dym, C.L., P. Little, E.J. Orwin and R.E. Spjut, 2009. Engineering Design - A Project-Based Introduction, Third ed., John Wiley & Sons. [pages 60-62 provide an example of a pairwise using a ladder as an example](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk04-Dym_Pairwise.pdf) [PDF, 3 pages]
+*  Dym, C.L., P. Little, E.J. Orwin and R.E. Spjut, 2009. Engineering Design - A Project-Based Introduction, Third ed., John Wiley & Sons. [pages 60-62 provide an example of a pairwise using a ladder as an example](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk04-Dym_Pairwise.pdf) [PDF, 3 pages]
 
+#### Further resources
 
-** Further Resources **
-
-*  [Dym, C.L., et al. Rank ordering engineering designs: pairwise comparison charts and Borda counts in Research in Engineering Design November 2002, Volume 13, Issue 4, pp 236-242](http://link.springer.com.virtual.anu.edu.au/article/10.1007/s00163-002-0019-8#) ([Download PDF, 7 pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk04-Dym_RankOrdering.pdf) *Note that this also introduces a more complicated idea of group aggregation of separate rankings*
+*  [Dym, C.L., et al. Rank ordering engineering designs: pairwise comparison charts and Borda counts in Research in Engineering Design November 2002, Volume 13, Issue 4, pp 236-242](http://link.springer.com.virtual.anu.edu.au/article/10.1007/s00163-002-0019-8#) ([Download PDF, 7 pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/further_resources/wk04-Dym_RankOrdering.pdf) *Note that this also introduces a more complicated idea of group aggregation of separate rankings*
 
 ### Technical Performance Measures
 
 *A tool for benchmarking designs against the design priorities.*
 
-#### Overview
-
 A technical performance measure becomes the key to understanding whether or not our design meets or exceeds the requirements, and competing products. Setting the TPMs or 'metrics' allows us to compare designs against a common scale.
 
 #### Core resources
 
-*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Chapter 3.6, pp96-100](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk04-Blanchard_TPM.pdf) [PDF, 5 pages]
-
+*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Chapter 3.6, pp96-100](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk04-Blanchard_TPM.pdf) [PDF, 5 pages]  
 *Glossary for that reading.. MTBF is Mean Time Before Failure, MTBM is Mean Time Before Maintenance, LCC is Life-Cycle Cost.*
 
-** Further Resources **
+#### Further resources
 
 *  [INCOSE Technical Measurement Guide](http://www.incose.org/ProductsPubs/pdf/TechMeasurementGuide_2005-1227.pdf) *Read especially ยง3.2.3 (pp10-11) and Figure 3.3 (p16) for examples*.
 
@@ -300,19 +313,17 @@ A technical performance measure becomes the key to understanding whether or not 
 
 *An approach for housing the design priorities, trade-offs and benchmarking.*
 
-#### Overview
-
 The QFD process is a way of organising and comparing the customer requirements and the design capabilities. By going through this process, we begin to see the important parts of the design and - more importantly - the relationships between the parts.
 
-#### Note on Standards
+***Note on Standards***
 
 There are many, many different ways that people use the HoQ, including symbols and lots of whacky scales. We will use numbers rather than symbols - 1: Weak, 3: Medium, 9: Strong and + positive and - negative.
 
 #### Core resources
 
-*  Hauser, J.R. and D. Clausing, The House of Quality in Harvard Business Review, May 1988. [The House of Quality](http://www.csuchico.edu/~jtrailer/HOQ.pdf) free reprint [PDF, 13 pages]
+*  Hauser, J.R. and D. Clausing, The House of Quality in Harvard Business Review, May 1988. [The House of Quality](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk05-Hauser_HoQ.pdf)) free reprint [PDF, 13 pages]
 
-** Further Resources **
+#### Further resources
 
 *  [QFD - HoQ Tutorial](http://elsmar.com/pdf_files/QFD-Tutorial.swf) by Dr A Lowe.
 *  [Quality Function Deployment (QFD) and House of Quality - MIT](https://www.youtube.com/watch?v=u9bvzE5Qhjk) - an MIT recorded lecture which goes through the process step-by-step by Dr. Michael Short [video, 44m]
@@ -321,125 +332,115 @@ There are many, many different ways that people use the HoQ, including symbols a
 
 ## Wk 6: System Function Definition
 
-> **In this topic...**
+> ![Concept Generation](http://eng.anu.edu.au/courses/ENGN2225/current/data/icons/wk06.png)
+> **Topics this week...**
 >
-> *  Concept generation
 > *  Functional analysis
+>   * *OC:* ([video, 5m18s](http://www.youtube.com/watch?v=Ii1MI68MKDs&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk06_FFBDs.pdf))
+> *  Concept generation
+>   * *OC:* ([video, 4m45s](http://www.youtube.com/watch?v=MW2HQ8mgaDo&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&index=7)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk06_ConceptGeneration.pdf))
 > *  Use Cases 2
 >
-> **Online Classroom**
->
-> *  [Online Classroom Series](http://www.youtube.com/watch?v=Ii1MI68MKDs&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 5m18s]
-*  [Online Classroom - Wk06 FFBDs](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk06_ffbds.pdf) [slides as a PDF]
 
+### Functional analysis
+
+*A tool for showing the functions system step-by-step.*
+
+A functional analysis looks at the 'functional' steps that are required to perform an aspect of a system. In this course, we will use the traditional technique Functional Flow-Block Diagrams (FFBD) for our functional analysis. FFBDs are useful to the design process in as much as they help you to understand the intended use of the system.
+
+FFBDs can be hierarchical, and an important part is to keep the FFBD levels at similar task size. Some blocks will have sub-functions, which can then be broken down into a sub-level.
+
+***Note on standards***
+
+There are also many ways to represent Functional Flow Block Diagrams (FFBDs). Please use Systems Engineering Fundamentals reading as a guiding standard.
+
+#### Core resources
+
+*  Systems Engineering Fundamentals, Department of Defense [Chapter 5 and Supplement 5A](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk06-SEF_FFBD.pdf) [PDF, 7 pages]
+
+#### Further resources
+
+*  [Examples of FFBDs](http://eng.anu.edu.au/courses/ENGN2225/course-files/further_resources/wk06-Blanchard_FFBDs.pdf) from Blanchard, B.S. and W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011.
+*  [Functional Allocation](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk07-Blanchard_FunctionalAllocation.pdf) - *note this is next week's core reading*.
 
 ### Concept Generation
 
 *A systematic process for generating ideas.*
 
-*  [Online Classroom Series](http://www.youtube.com/watch?v=Xnet58-119Q&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 4m45s]
-*  [Online Classroom - Wk03 Concept Generation](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk03_conceptgeneration.pdf) [slides as a PDF, 0.4MB]
-
 #### Core resources
 
-*  Ulrich, K.T., and S.D. Eppinger, 1995. Product Design and Development. McGraw-Hill. [Chapter 5 - Concept Generation](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk03-Ulrich_ConceptGeneration.pdf) [PDF, 25 pages]
+*  Ulrich, K.T., and S.D. Eppinger, 1995. Product Design and Development. McGraw-Hill.  
+[Chapter 5 - Concept Generation](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk06-Ulrich_ConceptGeneration.pdf) [PDF, 25 pages]
 
-*  This is the *ultimate* guide to coming up with product design ideas. Refer to this for your Three Ideas presentation.
+*  This is the *ultimate* guide to coming up with product design ideas.
 
-** Further Resources **
+#### Further resources
 
 Keeping in mind Ford's 'Faster Horse' quote, here are some concept generation videos that - in hindsight - missed the point completely. How can you use these shortcomings to improve your own thinking about your design?
 
 *  ['You Will'](https://www.youtube.com/watch?v=5MnQ8EkwXJ0) campaign from AT&T (1993) - how technology will change your life [video, 3mins]
 *  [1920s - what the future will look like](https://www.youtube.com/watch?v=czr-98yo6RU), unknown source [video, 5m39s]
 
-### Functional analysis
-
-*A tool for showing the functions system step-by-step.*
-
-#### Overview
-
-A functional analysis looks at the 'functional' steps that are required to perform an aspect of a system. In this course, we will use the traditional technique Functional Flow-Block Diagrams (FFBD) for our functional analysis. FFBDs are useful to the design process in as much as they help you to understand the intended use of the system.
-
-FFBDs can be hierarchical, and an important part is to keep the FFBD levels at similar task size. Some blocks will have sub-functions, which can then be broken down into a sub-level.
-
-#### Note on standards
-
-There are also many ways to represent Functional Flow Block Diagrams (FFBDs). Please use Systems Engineering Fundamentals reading as a guiding standard.
-
-#### Core resources
-
-*  Systems Engineering Fundamentals, Department of Defense [Chapter 5 and Supplement 5A](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk05-SEF_FFBD.pdf) [PDF, 7 pages]
-
-** Further Resources **
-
-*  [Examples of FFBDs](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk05-Blanchard_FFBDs.pdf) from Blanchard, B.S. and W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011.
-
 
 ### Use Cases 2
 The Use Cases topic is here again to remind groups to revisit your Use Case, as there's a good chance that your project has drifted from the original Use Case you thought of before your client meetings - it's also relevant to accurately generating your FFBDs.
+
+As an extension, move from the 'basic' to the 'formal' use cases described in the readings in Week 4.
 
 <div class="page-break"></div>
 
 ## Wk 7: Subsystem Integration
 
-> **In this topic...**
+> ![Subsystem Integration](http://eng.anu.edu.au/courses/ENGN2225/current/data/icons/wk07.png)
+> **Topics this week...**
 >
-> *  Subsystem definition
-> *  System interface
+> *  Subsystem definition & interfaces
+>   * *OC:* ([video, 5m12s](http://www.youtube.com/watch?v=pZNlca7KazU&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&feature=share&index=9)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk07_FBD.pdf))
 >
-> **Online Classroom**
->
-> *  [Online Classroom - Wk07 Functional Block Diagram](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk07_fbd.pdf) [slides as a PDF, 0.8MB]
-
-
 
 ### System definition and interface
 
 *An approach for understanding the inputs and outputs of the system and subsystems.*
 
-#### Overview
+In this topic you need to ***define the subsystems*** of your design, and then explain ***how they interact***.
 
-In this topic you need to define the subsystems of your design, and how they interact. Also known as a **Functional Block Diagram** (FBD), this process identifies the subsystems, and the interfaces between them. There are a few guiding principles to creating FBDs:
+We'll use the tool known as a **Functional Block Diagram** (FBD), this process identifies the subsystems, and the interfaces between them. There are a few guiding principles to creating FBDs:
 
 *  cluster the brainstormed system elements from your model boundary chart (above)
-*  decide what the subsystems are (this should somewhat align with ideas from your [Functional architecture](#functional_architecture))
+*  decide what the subsystems are (this could be determined using the Functional Allocation reading)
 *  Each system and subsystem should have inputs and outputs
 *  There might be external elements that the system relies on (eg. wireless transceiver)
 *  You should have a description on each arrow of what is travelling (eg wireless signal, heat) and what units/standards are involved (eg 802.11n, joules)
 
 #### Core resources
 
-These are largely examples. Use the guide above to create your system interface diagrams. Make sure that your diagrams are clear, and have a key.
+*  [Functional Allocation](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk07-Blanchard_FunctionalAllocation.pdf)
+*  [Principles of System Architecture](http://sysarch.pbworks.com/w/page/7241231/FrontPage) - this is a how-to on the principles. These are actually good principles to apply to all of your systems engineering endeavours.
+
+The following are examples. Use the guide above to create your system interface diagrams. Make sure that your diagrams are clear, and have a key.
 
 *  [Gemini Spacecraft Guidance System Block Diagram](http://www.ibiblio.org/apollo/GeminiGuidanceSystemBlockDiagram.jpg) [jpg]
 *  [Basics of Space Flight. Jet Propulsion Lab, NASA](http://www2.jpl.nasa.gov/basics/bd.php) [website with diagram]
 *  [SmartPAK xPOD](http://www.intalek.com/Index/Projects/SmartPAK_xPOD/SmartPAK_xPOD.htm) - see the PBD [website with diagrams and photos]
-*  [Principles of System Architecture](http://sysarch.pbworks.com/w/page/7241231/FrontPage) - this is a how-to on the principles. These are actually good principles to apply to all of your systems engineering endeavours.
 
-** Further Resources **
+#### Further resources
 
-*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [The subsystem diagram - application to a semiconductor firm](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk07-Sterman_Boundary.pdf) (p99-102 - especially Fig. 3-8) [PDF, 6 pages]
+*  Sterman, J.D., 2000, 'Business Dynamics - Systems Thinking and Modeling for a Complex World', McGraw Hill [The subsystem diagram - application to a semiconductor firm](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk04-Sterman_Boundary.pdf) (p99-102 - especially Fig. 3-8) *from week 4's reading* [PDF, 6 pages]
 
 <div class="page-break"></div>
 
 ## Wk 8: System Attributes
 
-> **In this topic...**
+> ![System Attributes](http://eng.anu.edu.au/courses/ENGN2225/current/data/icons/wk08.png)
+> **Topics this week...**
 >
-> *  System attributes
-> *  Attributes cascade
+> *  System attributes & cascade
+>   * *OC:* ([video, 6m25s](http://www.youtube.com/watch?v=XjoxA40qNSQ&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA&feature=share&index=10)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk08_AC.pdf))
 >
-> **Online Classroom**
->
-> *  [Online Classroom - Wk08 Attributes Cascade](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk08_ac.pdf) [slides as a PDF]
 
+### System attributes & cascade
 
-### System attributes
-
-*Separate from the requirements described in the HoQ, the attributes are the 'qualities' of the system, categorised.*
-
-#### Overview
+*Separate from the requirements described in the HoQ, the attributes are the 'qualities' of the system, categorised.* The attributes then get mapped to your original customer requirements - this allows you to see how your system applies to the requirements, in case the requirements change.
 
 The system attributes are how the system should *be*, as opposed to how a system necessarily *functions*. These might also be called the **operational functions**. These attributes are likely to be **non-functional requirements**.
 
@@ -462,57 +463,28 @@ For example:
 
 #### Core resources
 
-This process is fairly self-explanatory, and you can see how this manifests in the [Attributes cascade](#attributes_cascade). One way of thinking about why the customer wants particular attributes is to think about it using the 5-whys framework. You can translate this concept into the "5-hows". Using the example above - Robustness. How? Weatherproof. How? Colourfast. etc.
+This process is fairly self-explanatory, and you can see how this manifests in the attributes cascade. One way of thinking about why the customer wants particular attributes is to think about it using the 5-whys framework. You can translate this concept into the "5-hows". Using the example above - Robustness. How? Weatherproof. How? Colourfast. etc.
 
 *  [Asia Development Bank](http://www.adb.org/sites/default/files/pub/2009/the-five-whys-technique.pdf) - Five Whys Technique
+*  Fourth-year project example of an Attributes Cascade [Attributes Cascade](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk08-ANUPDS_AttributesCascade.pdf) from an Instrumented Whitewater Slalom Gate System. *Note that this is a really detailed example. It might be worthwhile considering only key attributes. Verification table unnecessary*.
 
-#### Online Classroom
 
-*  The online classroom for this sub-topic is combined with the Attributes Cascade online classroom below, as they are very closely related.*
-
-**Further resources**
-*  [Non-functional requirement](http://en.wikipedia.org/wiki/Non-functional_requirement) this page has a number of suggestions on what non-functional attributes could derive from your design requirements.
-
-### Attributes cascade
-
-*The system attributes mapped to the design requirements.*
-
-#### Overview
-
-These take the attributes above, and then align them to the functions in your system (from the Systems architecture).
-
-This allows you to understand how these attributes map to the system's function. For example, if a requirement changes, then it will likely change the design. Likewise, if the design changes, it might affect the requirements.
-
-**Note**: the core reading below is a graphical representation. You could use a (nicely formatted) spreadsheet instead.
-
-#### Core resources
-
-*  Fourth-year project example of an Attributes Cascade [Attributes Cascade](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk08-ANUPDS_AttributesCascade.pdf) from an Instrumented Whitewater Slalom Gate System.
-*  *Note that this is a really detailed example. It might be worthwhile considering only key attributes. Verification table unnecessary*.
-
-** Further Resources **
-
-*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Functional packaging into operational functions (pp122)](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk08-Blanchard_FunctionalPackaging.pdf) [PDF, 1 page]
+#### Further resources
+*  [Non-functional requirement](http://en.wikipedia.org/wiki/Non-functional_requirement) wikipedia page has a number of suggestions on what non-functional attributes could derive from your design requirements.
+*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Functional packaging into operational functions (pp122)](http://eng.anu.edu.au/courses/ENGN2225/course-files/further_resources/wk08-Blanchard_FunctionalPackaging.pdf) [PDF, 1 page]
 
 <div class="page-break"></div>
 
 ## Wk 9: Verification & Evaluation
 
-> **In this topic...**
+> ![Design Verification](http://eng.anu.edu.au/courses/ENGN2225/current/data/icons/wk09.png)
+> **Topics this week...**
 >
 > *  Design verification
-> *  Design selection
+>   * *OC:* ([video, 8m56s](http://www.youtube.com/watch?v=yruHXbsZRzk&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk09_Validation.pdf))
+> *  Design selection/evaluation
+>   * *OC:* ([video, 7m32s](http://www.youtube.com/watch?v=4CglMoAfhSI&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA)) ([PDF](http://eng.anu.edu.au/courses/ENGN2225/course-files/online_classroom/OC-Wk09_Evaluation.pdf))
 >
-> **Online Classroom**
->
-> *  [Online Classroom - Wk09 Validation](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk09_validation.pdf) [slides as a PDF]
-> *  [Online Classroom Series](http://www.youtube.com/watch?v=yruHXbsZRzk&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 8m56s]
-#### Online Classroom
-> *  [Online Classroom - Wk10 Evaluation](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/oc-wk10_evaluation.pdf) [slides as a PDF]
-> *  [Online Classroom Series](http://www.youtube.com/watch?v=4CglMoAfhSI&feature=share&list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA) on YouTube [video, 7m32s]
-> **Classroom Resources**
->
-> * ..
 
 Your design should be ticking along nicely at this stage. The tools to date should have informed your design to a stage where you need to think about *proving* your design. We'll do this in two ways - verifying the design, and testing. In the verification topic, we'll cover different theoretical models of testing. In the Testing topic, we'll cover hands-on methods, such as prototyping and showing a proof-of-concept. This should help you communicate the *value* of your design.
 
@@ -520,27 +492,25 @@ Your design should be ticking along nicely at this stage. The tools to date shou
 
 *Demonstration that your system matches up with your requirements* 
 
-Verification of your system is important to understand whether or not your design matches up with your requirements.
-
-There are a number of different methods that involve testing, you should be able to identify which type of testing applies to each design attribute.
+Verification of your system is important to understand whether or not your design matches up with your requirements. There are a number of different methods that involve testing, you should be able to identify which type of testing applies to each design attribute.
 
 #### Core resources
 
-*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Testing types (pp166-171)](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk09-Blanchard_TestingTypes.pdf)
+> | B&F Description | ENGN2225 Description |
+> | :------------------------------- | :--------------------|
+> | Type 1 | Proof-of-concept testing |
+> | Type 2 | Model(/prototype) testing |
+> | Type 3 | Operational testing |
+> | Type 4 | Support testing |
 
-Note that the Blanchard & Fabrycky terms can get a little confusing. A better description of the testing types is:
+*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Testing types (pp166-171)](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk09-Blanchard_TestingTypes.pdf)
 
-| Blanchard & Fabrycky Description | ENGN2225 Description |
-| :------------------------------- | :--------------------|
-| Type 1 | Proof-of-concept testing |
-| Type 2 | Model(/prototype) testing |
-| Type 3 | Operational testing |
-| Type 4 | Support testing |
+Note that the Blanchard & Fabrycky terms can get a little confusing. A better description of the testing types is in the box on the right.
 
-** Further Resources **
+#### Further resources
 
 *  [V-Model](http://en.wikipedia.org/wiki/V-Model) of Systems Engineering contains continuous validation
-*  The [Attributes Cascade](#attributes_cascade) reading also contains examples of early-stage testing.
+*  The Attributes Cascade reading also contains examples of early-stage testing.
 
 ### Design evaluation
 
@@ -548,11 +518,11 @@ Note that the Blanchard & Fabrycky terms can get a little confusing. A better de
 
 #### Core resources
 
-*  [Evaluation Matrix](http://deseng.ryerson.ca/y/pub/Dcl/EvaluationMatrices.pdf) worksheet. This is a good demonstration on how you can use your customer requirements to identify the best solution.
+*  [Evaluation Matrices](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk09-evaluation_matrices.pdf) worksheet. This is a good demonstration on how you can use your customer requirements to identify the best solution.
 
-** Further Resources **
+#### Further resources
 
-*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Figure 7.4 is a good way to visualise the alternatives (p202)](http://eng.anu.edu.au/courses/ENGN2225/course-files/readings/wk10-Blanchard_DecisionEvaluation.pdf)
+*  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Figure 7.4 is a good way to visualise the alternatives (p202)](http://eng.anu.edu.au/courses/ENGN2225/course-files/further_resources/wk09-Blanchard_DecisionEvaluation.pdf)
 
 ### Design selection
 
@@ -562,32 +532,30 @@ After you have gone through the Design Evaluation, the selection of the design i
 
 The selection of the design isn't just about numbers. You should also consider the qualitative aspects. To this end, this topic is about revisiting the *intention* of your customer requirements, and describing how you've chosen the design that best achieves these requirements. It should also explain why you didn't choose alternatives.
 
-We'll us the competitive, right-hand side of the HoQ to explore the selection and comparison to other products. The reading will be the same as Week 5 - House of Quality.
+We'll use the competitive, right-hand side of the HoQ to explore the selection and comparison to other products. The reading to use is the  House of Quality reading from Week 5.
 
 <div class="page-break"></div>
 
 ## Wk 10: Design Communication
 
-> **In this topic...**
+> ![Prototyping](http://eng.anu.edu.au/courses/ENGN2225/current/data/icons/wk10.png)
+> **Topics this week...**
 >
 > *  Design communication
 > *  Prototyping
 >
-> **Online Classroom**
->
-> *  ..
-
 
 ### Prototyping and Design Communication
 
 *Exposing your design to the real-world.*
 
-#### Overview
+Prototyping is one of the most important things to communicate your idea. This could be a physical artefact, sketches, demonstrations - anything to help show how your idea will work. Do you use parts off the shelf, modify or build from scratch? 
 
-Prototyping is one of the most important things to communicate your idea. This could be a physical artefact, sketches, demonstrations - anything to help show how your idea will work.
+*There's no online classroom for this topic - Tom Chi does a great job showing how to communicate your design through the rapid prototyping in the core reading above.*
 
 #### Core resources
 
+*  [Impact of Commercial Off-The-Shelf Software and Technology on Systems Engineering](http://www.incose.org/northstar/2001Slides/McKinney%20Charts.pdf)
 *  [Rapid prototyping Google Glass](https://www.youtube.com/watch?v=Rapid%20prototyping%20Google%20Glass) - Tom Chi goes through how they prototyped Google glass.
 
 Tom's Prototyping Rules:
@@ -598,11 +566,7 @@ Tom's Prototyping Rules:
 
 **Question: how is this similar to the way that you learn?**
 
-#### Online Classroom
-
-*There's no online classroom for this topic - Tom Chi does a great job showing how to communicate your design through the rapid prototyping in the core reading above.*
-
-** Further Resources **
+#### Further resources
 
 There are a bunch of ideas around prototypes. Spend some time on YouTube to find out what might be suitable for communicating your idea :)
 

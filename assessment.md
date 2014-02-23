@@ -60,7 +60,7 @@ Present a written 2-page Project Concept Document (PCD), and lead a 10-minute di
 
 The template can be modified as necessary. Use it as a guide.
 
-*  Download the PCD template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_concept_document.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_concept_document.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_concept_document.odt))
+*  Download the PCD template ([Word docx](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_concept_document.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_concept_document.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_concept_document.odt))
 
 ### Feedback
 No marks are allocated to this assessment piece, but you will receive feedback from the group and your tutor guide the start of your project.
@@ -87,7 +87,7 @@ There are two parts to the weekly submissions at your tutorial:
 
 The weekly progress document is a 'control' document that demonstrates your group's progress, and highlights any issues that your group might be having. Please bring a copy each week, and bring previous weeks' reports too. Develop this in consultation with your tutor.
 
-*  Download the Weekly Progress template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_weekly_progress.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_weekly_progress.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_weekly_progress.odt)) 
+*  Download the Weekly Progress template ([Word docx](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_weekly_progress.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_weekly_progress.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_weekly_progress.odt)) 
 
 ### Group Homework
 
@@ -100,7 +100,7 @@ Each week, apply a relevant technique to the topic in relation to your group pro
 
 You could use the following template, or evolve your own. Homework should be of a high standard:
 
-*  Download the Weekly Homework template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_homework.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_homework.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_homework.odt))
+*  Download the Weekly Homework template ([Word docx](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_homework.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_homework.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/project_homework.odt))
 
 ### Marking Criteria
 
@@ -238,7 +238,7 @@ Submission must be by PDF, and the outline must not exceed two A4 pages. If you 
 
 Please use the Structured Abstract template. You may alter and adjust if necessary.
 
-*  Download the Structured Abstract template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.odt)) ([LateX](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.zip))
+*  Download the Structured Abstract template ([Word docx](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.odt)) ([LateX](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/structured_abstract.zip))
 
 #### Marking Criteria
 All criteria have equal weight.
@@ -273,7 +273,7 @@ Submission must be by PDF. The research paper content should not exceed 1,500 wo
 
 Please use the Individual Research Paper template. You may alter and adjust if necessary.
 
-*  Download the Research Paper template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.odt)) ([LateX](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.zip))
+*  Download the Research Paper template ([Word docx](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.odt)) ([LateX](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.zip))
 
 #### Submission
 **Draft: ** submission on WATTLE by 10am Monday, the week of the topic. This is to allow time for the Peer Reviewers to provide comments by Friday of the topic week. A Turnitin report should be submitted with the Draft to help the reviewers confirm that your content is original.
@@ -305,7 +305,7 @@ The System Design Portfolio is an opportunity for individuals to showcase their 
 ### Portfolio Scoping Plan
 A hardcopy needs to be signed-off by Chris in the weeks 5-7 Labs.
 
-*  Download the Porfolio Scoping template ([Word docx)](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/portfolio_plan.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/portfolio_plan.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/portfolio_plan.odt))
+*  Download the Porfolio Scoping template ([Word docx](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/portfolio_plan.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/portfolio_plan.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/portfolio_plan.odt))
 
 ### Task Requirements
 
