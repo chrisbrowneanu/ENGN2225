@@ -11,6 +11,7 @@ These are slides and worksheets from the labs, workshops, lectures and course in
 *  [Lecture 1 slides - 17 Feb, Course Introduction](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture01.pdf)
 *  [Lecture 2 slides - 20 Feb, Assessment](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture02.pdf)
 *  [Lecture 3 slides - 24 Feb, Feedback Systems](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture03.pdf)
+  * *[The video featuring Atlas the robot used to demonstrate feedback in control systems](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture03_Balance_Hawking.mp4)*
 
 ## Tutorial Notes
 

@@ -83,7 +83,7 @@ The [weekly topics schedule](#weekly_topics) has a detailed list of important ti
 **Face-to-face Activities**
 
 *  **Lectures** - Lectures will be in weeks 1, 2, 3 and 11 to orientate st
-*  **Labs** - to consolidate the week's topic content, there will be a 'hardware' lab run by your lecturer. Bring your laptop, and expect to participate
+*  **Labs** - to consolidate the week's topic content, there will be a 'hardware' lab run by your lecturer. Bring your laptop, and expect to participate. These are voluntary and assessment-free (just like a lecture). A creative, hands-on, systems engineering challenge will be the focus of each lab. 
 *  **Tutorials** - Weeks 2-4 will have tutor-facilitated tutorials, which will provide an example for student-facilitated tutorials
 *  **Student-Facilitated Tutorials** - Weeks 5-10 will have student-facilitated tutorials. Every student will co-facilitate a tutorial of 60 minutes to their peers. Tutorial attendance is highly recommended, as non-facilitating students will be asked to engage in the material in a number of ways.
 *  **Group mentoring** - tutors will act as mentors for your group project work, and will meet with you in weeks 5-10.
