@@ -1,7 +1,6 @@
 # Course Content
 
 ## Course Brick
-
 This page is the easiest way to access material, but you might like to print this document as a reference as it contains all the relevant source readings and resources you need for this course.
 
 How to build your own DIY brick:
