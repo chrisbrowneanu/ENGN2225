@@ -14,7 +14,7 @@ These are slides and worksheets from the labs, workshops, lectures and course in
   * *[The video featuring Atlas the robot used to demonstrate feedback in control systems](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture03_Balance_Hawking.mp4)*
 *  [Lecture 4 slides - 27 Feb, Group Projects](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture04.pdf) **updated with corrected group contract - thanks**
 *  [Lecture 5 slides - 3 Mar, Systems Engineering](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture05.pdf)
-  * *[The video featuring Australian shearers](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture05_Shearing_Landline.mp4)*
+*  [Lecture 6 slides - 6 Mar, Research Papers](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture06_pr_example.pdf)
 
 
 ## Tutorial Notes
