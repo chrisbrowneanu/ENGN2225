@@ -309,8 +309,8 @@ Take a system or design, and improve it using systems engineering techniques.<im
 
 **There are two submission options for this assessment**, as voted by the class:
 
-*  over the whole semester (as described here)
-*  as a 72-hour take-home exam in Week 12 (described in the News forum in WATTLE)
+*  over the whole semester (as described here - you choose your own topic)
+*  as a 72-hour take-home exam in Week 12 (described in the News forum in WATTLE - project topics will be given to you when the exam is made available)
 
 Students may use either option, but students who take the semester-long option are required to submit a hardcopy of your plan by the Week 7 lab.
 
