@@ -275,6 +275,15 @@ Please use the Individual Research Paper template. You may alter and adjust if n
 
 *  Download the Research Paper template ([Word docx](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.docx)) ([Apple Pages](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.pages.zip)) ([OpenOffice.org](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.odt)) ([LateX](http://eng.anu.edu.au/courses/ENGN2225/course-files/templates/individual_research_paper.zip))
 
+#### Marking Criteria
+All criteria have equal weight.
+
+  * Demonstration that the task requirements have been met
+  * Take a whole-of-system approach when discussing the design
+  * Detailed understanding of the systems engineering theory
+  * Demonstration of systems theory to improve design outcomes or operational performance
+  * Quality and relevance of bibliography
+
 #### Submission
 **Draft: ** submission on WATTLE by 10am Monday, the week of the topic. This is to allow time for the Peer Reviewers to provide comments by Friday of the topic week. A Turnitin report should be submitted with the Draft to help the reviewers confirm that your content is original.
 **Final: ** submission on WATTLE by 10am Friday, the week after the topic. Your research paper will be marked by your tutor.
@@ -297,6 +306,13 @@ Submission will be available on WATTLE - please complete the activity there. (Sh
 
 # System Design Portfolio
 Take a system or design, and improve it using systems engineering techniques.<img src="http://eng.anu.edu.au/courses/ENGN2225/current/data/images/engn-portfolio.png" title="Portfolio Flow" class="right">
+
+**There are two submission options for this assessment**, as voted by the class:
+
+*  over the whole semester (as described here)
+*  as a 72-hour take-home exam in Week 12 (described in the News forum in WATTLE)
+
+Students may use either option, but students who take the semester-long option are required to submit a hardcopy of your plan by the Week 7 lab.
 
 The System Design Portfolio is an opportunity for individuals to showcase their understanding and extension of themes and concepts in the course.
 
@@ -335,4 +351,4 @@ Both assessment items will be marked using the following criteria:
 ### Submission
 You need to have your Portfolio Scoping Plan signed off by Chris in the weeks 5-7 labs.
 
-Please submit a PDF of your Portfolio on WATTLE, and sign up for a Week 13 discussion spot on WATTLE from Week 10.
+Please submit a PDF of your Portfolio on WATTLE, and sign up for a Week 12-13 discussion spot on WATTLE from Week 10.
