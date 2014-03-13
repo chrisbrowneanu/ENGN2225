@@ -22,6 +22,14 @@ These are slides and worksheets from the labs, workshops, lectures and course in
 *  [Group Contract](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/GroupContract.pdf) (for selecting jigsaw tasks within your group project by Week 3)
 *  [Group Project List - For Release](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/ProjectList.pdf)
 
+## Workshop Handouts
+*  **Requirements Engineering**
+  *  [Chris' Secret Plan for the workshop](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_RE_plan.pdf)
+  *  [Chris' Pairwise Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_RE_pairwise.pdf)
+  *  [Chris' HoQ Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_RE_HoQ.pdf)
+
+
+
 ## Online Classroom
 
 The Online Classroom are short mini-lectures that go through some of the key parts of the theory for most topics.
