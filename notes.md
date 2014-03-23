@@ -16,6 +16,10 @@ These are slides and worksheets from the labs, workshops, lectures and course in
 *  [Lecture 5 slides - 3 Mar, Systems Engineering](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture05.pdf)
 *  [Lecture 6 slides - 6 Mar, Research Papers](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lecture06_pr_example.pdf)
 
+### Labs ###
+
+*  [Lab 1 - Requirements Engineering Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lab_RE.pdf)
+*  [Lab 2 - System Functions Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lab_SF.pdf) | [Beginner's Guide to Arduino](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lab_Arduino.pdf)
 
 ## Tutorial Notes
 
