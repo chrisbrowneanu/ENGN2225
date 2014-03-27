@@ -21,17 +21,14 @@ These are slides and worksheets from the labs, workshops, lectures and course in
 *  [Lab 1 - Requirements Engineering Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lab_RE.pdf)
 *  [Lab 2 - System Functions Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lab_SF.pdf) | [Beginner's Guide to Arduino](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lab_Arduino.pdf)
 
-## Tutorial Notes
-
-*  [Group Contract](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/GroupContract.pdf) (for selecting jigsaw tasks within your group project by Week 3)
-*  [Group Project List - For Release](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/ProjectList.pdf)
-
 ## Workshop Handouts
 *  **Requirements Engineering**
   *  [Chris' Secret Plan for the workshop](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_RE_plan.pdf)
   *  [Chris' Pairwise Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_RE_pairwise.pdf)
   *  [Chris' HoQ Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_RE_HoQ.pdf)
-
+*  **Subsystem Integration**
+  *  [Chris' Secret Plan](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_SI_plan.pdf)
+  *  [Melbourne Bike Share](http://www.melbournebikeshare.com.au/)
 
 
 ## Online Classroom
@@ -40,3 +37,8 @@ The Online Classroom are short mini-lectures that go through some of the key par
 
 *  [Watch the Online Classrooms on YouTube](http://www.youtube.com/playlist?list=PL2hygCecjFiXEDTXwBOgWlAFVZL06gnSA)
 *  [Browse the PDFs](http://eng.anu.edu.au/courses/ENGN2225/course-files/?dir=online_classroom)
+
+## Tutorial Notes
+
+*  [Group Contract](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/GroupContract.pdf) (for selecting jigsaw tasks within your group project by Week 3)
+*  [Group Project List - For Release](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/ProjectList.pdf)
