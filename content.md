@@ -184,7 +184,7 @@ The product life-cycle is a model for tracking a product through different stage
 
 #### Core resources
 
-*  Stasinopoulos, P., Smith, M., Hargroves, K. and Desha, C., 2008. Whole System Design - An Integrated Approach to Sustainable Engineering, The Natural Edge Project, Earthscan, London. [Pages 19-22](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk03-Stasinopoulos_WholeSystemDesign.pdf) [PDF, 4 pages]
+*  Stasinopoulos, P., Smith, M., Hargroves, K. and Desha, C., 2008. Whole System Design - An Integrated Approach to Sustainable Engineering, The Natural Edge Project, Earthscan, London. [Pages 19-22](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk03-Stasinopoulos_WholeSystemDesign.pdf) [PDF, 4 pages] ([whole chapter](http://eng.anu.edu.au/courses/ENGN2225/course-files/further_resources/wk03-Stasinopoulos_WholeSystemDesign_Ch2.pdf)
 *  Heizer, J.H. and B. Render, 2000. Operations Management, Ninth ed, Prentice Hall.  [Pages 159-162](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk03-Heizer_Life-Cycle.pdf) [PDF, 4 pages]
 *  McDonough, W., and M. Braungart, 2010. Cradle to Cradle - Remaking the Way We Make Things. Farrar, Straus and Giroux. [Pages 157-165](http://eng.anu.edu.au/courses/ENGN2225/course-files/further_resources/wk03_McDonough-CradleToCradle.pdf) [PDF, 8 pages]
 
