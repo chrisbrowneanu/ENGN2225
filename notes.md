@@ -20,6 +20,14 @@ These are slides and worksheets from the labs, workshops, lectures and course in
 
 *  [Lab 1 - Requirements Engineering Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lab_RE.pdf)
 *  [Lab 2 - System Functions Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lab_SF.pdf) | [Beginner's Guide to Arduino](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lab_Arduino.pdf)
+*  [Lab 3 - System Interface Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/Lab_SI.pdf)
+
+Download information about some of the equipment we use in the maker lab:
+
+*  [Makey Makeys](http://www.makeymakey.com/)
+*  [Arduino - Freetronics' Eleven](www.freetronics.com/products/eleven)
+*  Fennec Laser Engraver/Cutter -- coming soon
+*  3D Printers -- coming soon
 
 ## Workshop Handouts
 *  **Requirements Engineering**
