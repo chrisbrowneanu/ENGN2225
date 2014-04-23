@@ -37,6 +37,10 @@ Download information about some of the equipment we use in the maker lab:
 *  **Subsystem Integration**
   *  [Chris' Secret Plan](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_SI_plan.pdf)
   *  [Melbourne Bike Share](http://www.melbournebikeshare.com.au/)
+*  **Verification & Evaluation**
+  *  [Chris' Secret Plan](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_VE_plan.pdf)
+  *  [Chris' Handout](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_VE_supplementary.pdf)
+  *  [Chris' Blank Evaluation Matrix](http://eng.anu.edu.au/courses/ENGN2225/course-files/class_notes/workshop_VE_matrix.pdf)  
 
 
 ## Online Classroom
