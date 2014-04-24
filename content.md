@@ -503,6 +503,7 @@ Verification of your system is important to understand whether or not your desig
 > | Type 4 | Support testing |
 
 *  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Testing types (pp166-171)](http://eng.anu.edu.au/courses/ENGN2225/course-files/core_resources/wk09-Blanchard_TestingTypes.pdf)
+*  [Australian Design Rules](http://www.infrastructure.gov.au/roads/motor/design/) *these are the design standards of cars - follow them through to the legislation on testing to find examples of testing/verification procedures.* See also, the lab [notes](handouts) on this topic.
 
 Note that the Blanchard & Fabrycky terms can get a little confusing. A better description of the testing types is in the box on the right.
 
@@ -522,6 +523,7 @@ Note that the Blanchard & Fabrycky terms can get a little confusing. A better de
 #### Further resources
 
 *  Blanchard, B.S., W.J. Fabrycky, Systems Engineering and Analysis, Fifth ed. Pearson, New Jersey, 2011. [Figure 7.4 is a good way to visualise the alternatives (p202)](http://eng.anu.edu.au/courses/ENGN2225/course-files/further_resources/wk09-Blanchard_DecisionEvaluation.pdf)
+*  [Chris' 2012 ENGN2226 Lecture Slides](http://eng.anu.edu.au/courses/ENGN2225/course-files/further_resources/wk09_Browne_Decision-Making.pdf) on evaluation of models, includes a demonstration of a number of design evaluation models. This content is no longer in ENGN2226.
 
 ### Design selection
 
