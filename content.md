@@ -580,6 +580,7 @@ In terms of your project, you could use this topic to communicate your complete 
 
 *  [Phonebloks by Dave Hakkens](https://www.youtube.com/watch?v=oDAw7vW7H0c) - a brilliant demonstration of effective design communication, regardless of what you think of the idea
 *  [Makey Makey by Jay Silver and Eric Rosenbaum](https://www.kickstarter.com/projects/joylabs/makey-makey-an-invention-kit-for-everyone) - we played with these in week 3, and the 'prototypes' in this video effectively communicate ideas about the design
+*  [Goldieblox by Debbie Sterling](https://www.kickstarter.com/projects/16029337/goldieblox-the-engineering-toy-for-girls) - a project that *motivates our girls to help build our future.*
 *  [Kano - a computer anyone can make](https://www.kickstarter.com/projects/alexklein/kano-a-computer-anyone-can-make)
 *  [Sir James Dyson on failure](http://www.abc.net.au/radionational/programs/downloadthisshow/dts042013/4532932) - how many prototypes of the Dyson vacuum cleaner did James Dyson make before he got it 'right'?
 *  [Rapid prototyping](https://www.youtube.com/watch?v=PDLOmoQj4H0) using 3D printers by WIRED magazine [Video, 2m30s]
