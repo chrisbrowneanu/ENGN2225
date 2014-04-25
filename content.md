@@ -567,14 +567,27 @@ Tom's Prototyping Rules:
 
 **Question: how is this similar to the way that you learn?**
 
-#### Further resources
+In terms of your project, you could use this topic to communicate your design back to your 'customer'. You could:
 
-There are a bunch of ideas around prototypes. Spend some time on YouTube to find out what might be suitable for communicating your idea :)
+*  use a prototype or proof-of-concept of an aspect of your design to help the customer see how it works
+*  create an animation that shows how it will look, or how it will solve their problem
+*  detail the design through technical drawings or Computer-Aided Design
+*  walkthrough a use case in a brochure, advertisement or product website
+*  produce marketing material to convince your customer that your design is the best idea
+*  any other method you can use to communicate your design
 
+#### Really highly recommended resources for thinking about communicating your design
+
+*  [Phonebloks by Dave Hakkens](https://www.youtube.com/watch?v=oDAw7vW7H0c) - a brilliant demonstration of effective design communication, regardless of what you think of the idea
+*  [Makey Makey by Jay Silver and Eric Rosenbaum](https://www.youtube.com/watch?v=rfQqh7iCcOU) - we played with these in week 3, and the 'prototypes' in this video effectively communicate ideas about the design
+*  [Kano - a computer anyone can make](https://www.kickstarter.com/projects/alexklein/kano-a-computer-anyone-can-make)
 *  [Sir James Dyson on failure](http://www.abc.net.au/radionational/programs/downloadthisshow/dts042013/4532932) - how many prototypes of the Dyson vacuum cleaner did James Dyson make before he got it 'right'?
 *  [Rapid prototyping](https://www.youtube.com/watch?v=PDLOmoQj4H0) using 3D printers by WIRED magazine [Video, 2m30s]
 *  [Prototyping electronic circuits](https://www.youtube.com/watch?v=3N3ApzmyjzE) [Video, 6m]
 *  [Google Wave](https://www.youtube.com/watch?v=rDu2A3WzQpo) an explanation of a new email prototype (which failed!) [Video, 2m15s]
+
+There are a bunch of ideas around prototypes. Spend some time on YouTube to find out what might be suitable for communicating your idea :)
+
 
 <div class="page-break"></div>
 
