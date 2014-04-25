@@ -567,7 +567,7 @@ Tom's Prototyping Rules:
 
 **Question: how is this similar to the way that you learn?**
 
-In terms of your project, you could use this topic to communicate your design back to your 'customer'. You could:
+In terms of your project, you could use this topic to communicate your complete design or an important part of your design back to your 'customer'. You could:
 
 *  use a prototype or proof-of-concept of an aspect of your design to help the customer see how it works
 *  create an animation that shows how it will look, or how it will solve their problem
